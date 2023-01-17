@@ -1,6 +1,10 @@
-oto header
 
+oto header
+XD
 
 car
 
-XD
+
+
+
+to jest footer
